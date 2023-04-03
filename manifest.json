@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Hello World Plugin",
+  "version": "1.0",
+  "description": "A simple plugin that displays a 'Hello World' message.",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
+
